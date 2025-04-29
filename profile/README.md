@@ -9,9 +9,9 @@
 
 ## MEMBER
 
-| <img src="./치이카와1.webp" alt="이찬욱" width="150px" /> | <img src="./치이카와2.webp" alt="김혜미" width="150px" /> | <img src="./하치와레.webp" alt="홍수연" width="150px" /> | <img src="./랏코.webp" alt="김수연" width="150px" /> | <img src="./우사기.webp" alt="한유리" width="150px" /> |
+| <img src="./치이카와1.webp" alt="이철욱" width="150px" /> | <img src="./치이카와2.webp" alt="김혜미" width="150px" /> | <img src="./하치와레.webp" alt="홍수연" width="150px" /> | <img src="./랏코.webp" alt="김수연" width="150px" /> | <img src="./우사기.webp" alt="한유리" width="150px" /> |
 | :-------------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------------: |
-|     <a href="https://github.com/lugia574">이찬욱</a>      |   <a href="https://github.com/Johanan-Dream">김혜미</a>   |    <a href="https://github.com/YoonSally">홍수연</a>     |  <a href="https://github.com/kimsudang">김수연</a>   |     <a href="https://github.com/YUL554">햔유리</a>     |
+|     <a href="https://github.com/lugia574">이철욱</a>      |   <a href="https://github.com/Johanan-Dream">김혜미</a>   |    <a href="https://github.com/YoonSally">홍수연</a>     |  <a href="https://github.com/kimsudang">김수연</a>   |     <a href="https://github.com/YUL554">햔유리</a>     |
 |                       팀장, 풀스택                        |                          풀스택                           |                          풀스택                          |                        풀스택                        |                         풀스택                         |
 
 <br>
