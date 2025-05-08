@@ -5,7 +5,7 @@
 점심시간에 함께 도시락을 먹으며 즐겁게 팀 프로젝트를 진행하고 있어, <br>
 팀워크와 따뜻한 분위기를 상징하기 위해 '도시락'이라고 정했습니다.
 
-[도시락 팀 노션](https://triangular-drum-29f.notion.site/1deeb8b0484780b0a53ed5607343f6e3)
+[도시락 팀 노션](https://triangular-drum-29f.notion.site/1deeb8b0484780b0a53ed5607343f6e3?pvs=4)
 
 ## MEMBER
 
