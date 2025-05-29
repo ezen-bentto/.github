@@ -24,6 +24,7 @@
 청년 대상 정책, 공모전, 자격증 정보를 제공하며, 커뮤니티 활동이 가능합니다.
 
 [프로젝트 Repository - Vanila JS](https://github.com/ezen-bentto/vanila-frontend) <br>
+[프로젝트 Repository - React](https://github.com/ezen-bentto/react-frontend) <br>
 [프로젝트 Repository - Node Backend](https://github.com/ezen-bentto/node-backend) <br>
 [프로젝트 Repository - Spring Backend](https://github.com/ezen-bentto/spring-backend)
 
